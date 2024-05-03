@@ -23,10 +23,10 @@ const HeaderComponent = () => {
                     </button>
                     <div className='collapse navbar-collapse justify-content-end' id='navbarNav'>
                         <ul className='navbar-nav'>
-                            <li className='nav-item'>
+                            <li className='nav-item m-2'>
                                 <a className='nav-link' href='/home'>Home</a>
                             </li>
-                            <li className='nav-item'>
+                            <li className='nav-item m-2'>
                                 <a className='nav-link' href='/employees'>Employee</a>
                             </li>
                             <li className='nav-item'>

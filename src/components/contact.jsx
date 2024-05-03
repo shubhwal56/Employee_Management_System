@@ -34,7 +34,7 @@ export const Contact = () => {
                         <textarea className="form-control" id="message" rows="4" placeholder="Enter Message"
                         ></textarea>
                     </div>
-                    <button type="submit" className="btn btn-primary mt-3">Submit</button>
+                    <button type="submit" className="btn btn-primary m-2">Submit</button>
                 </form>
             </div>
         </div>
